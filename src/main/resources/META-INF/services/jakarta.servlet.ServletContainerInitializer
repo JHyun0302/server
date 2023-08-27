@@ -1,0 +1,4 @@
+# 서블릿 컨테이너 초기화 클래스 경로 등록
+
+hello.container.MyContainerInitV1
+hello.container.MyContainerInitV2
