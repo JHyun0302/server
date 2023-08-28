@@ -15,3 +15,6 @@
     4. 외부 설정
     5. 모니터링 & 관리 기능
 
+
+- 정리 : spring boot 이전의 version
+    - 항상 tomcat 같은 `servlet container`에 배포를 해야만 동작하는 방식
